@@ -1,0 +1,11 @@
+body {
+  background-color: #192026;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.middel {
+  margin: 20px;
+}

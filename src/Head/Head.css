@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.Head >p     {
+    color: wheat;
+}
+.Head > h2 {
+    color: white;
+}
+.Head {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Head > a, h2 {
+    text-decoration: none;
+    color: #868686;
+    font-size: 30px;
+}
+.Head input {
+    padding-left: 10px;
+    background-color: #374151;
+    border-radius: 10px;
+}
+.Ask {
+    color: white;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.Ask > p {
+    color: #868686;
+}
